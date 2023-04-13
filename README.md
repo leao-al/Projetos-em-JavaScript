@@ -1,2 +1,2 @@
 # Projetos-em-JavaScript
-Aqui, irei postar minhas evoluções em javascript
+Aqui, irei postar minha evolução em javascript
